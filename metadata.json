@@ -1,0 +1,5 @@
+{
+  "name": "Muvi Analytics Custom Reports - Internal Validation",
+  "description": "An internal validation prototype for building custom analytical reports with multi-dimensional grouping, filtering, and dynamic visualizations.",
+  "requestFramePermissions": []
+}
